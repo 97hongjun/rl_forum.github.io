@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Stanford RL Forum</title>
-    <link>https://97hongjun.github.io/post/</link>
+    <link>https://97hongjun.github.io/rl_forum.github.io/post/</link>
     <description>Recent content in Posts on Stanford RL Forum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://97hongjun.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://97hongjun.github.io/rl_forum.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reinforcement Learning, Bit by Bit</title>
-      <link>https://97hongjun.github.io/p/rl-bit-by-bit/</link>
+      <link>https://97hongjun.github.io/rl_forum.github.io/p/rl-bit-by-bit/</link>
       <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://97hongjun.github.io/p/rl-bit-by-bit/</guid>
+      <guid>https://97hongjun.github.io/rl_forum.github.io/p/rl-bit-by-bit/</guid>
       <description>Presenter  Xiuyuan (Lucy) Lu
 Research Scientist,
 DeepMind, Mountain View
@@ -21,10 +21,10 @@ Abstract  Reinforcement learning agents have demonstrated remarkable achievement
     
     <item>
       <title>Provable Model-based Nonlinear Bandit and Reinforcement Learning</title>
-      <link>https://97hongjun.github.io/p/provable-model-based-bandit-rl/</link>
+      <link>https://97hongjun.github.io/rl_forum.github.io/p/provable-model-based-bandit-rl/</link>
       <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://97hongjun.github.io/p/provable-model-based-bandit-rl/</guid>
+      <guid>https://97hongjun.github.io/rl_forum.github.io/p/provable-model-based-bandit-rl/</guid>
       <description>Presenter  Tengyu Ma
 Assistant Professor of Computer Science and Statistics,
 Stanford
@@ -33,10 +33,10 @@ Abstract  Deep model-based reinforcement learning methods have achieved state-of
     
     <item>
       <title>Diffusion Asymptotics for Sequential Experiments</title>
-      <link>https://97hongjun.github.io/p/diffusion-asymptotic-sequential-exp/</link>
+      <link>https://97hongjun.github.io/rl_forum.github.io/p/diffusion-asymptotic-sequential-exp/</link>
       <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://97hongjun.github.io/p/diffusion-asymptotic-sequential-exp/</guid>
+      <guid>https://97hongjun.github.io/rl_forum.github.io/p/diffusion-asymptotic-sequential-exp/</guid>
       <description>Presenter  Kuang Xu
 Associate Professor of Operations, Information and Technology,
 Stanford Graduate School of Business
@@ -45,10 +45,10 @@ Abstract  I will discuss in this talk a new diffusion-asymptotic analysis for se
     
     <item>
       <title>Lectures on Information Directed Sampling</title>
-      <link>https://97hongjun.github.io/p/lec-ids/</link>
+      <link>https://97hongjun.github.io/rl_forum.github.io/p/lec-ids/</link>
       <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://97hongjun.github.io/p/lec-ids/</guid>
+      <guid>https://97hongjun.github.io/rl_forum.github.io/p/lec-ids/</guid>
       <description>Presenter  Tor Lattimore
 Research Scientist,
 Deepmind, London

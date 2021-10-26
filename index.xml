@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Stanford RL Forum</title>
-        <link>https://97hongjun.github.io/</link>
+        <link>https://97hongjun.github.io/rl_forum.github.io/</link>
         <description>Recent content on Stanford RL Forum</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Tue, 20 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://97hongjun.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 20 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://97hongjun.github.io/rl_forum.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Reinforcement Learning, Bit by Bit</title>
-        <link>https://97hongjun.github.io/p/rl-bit-by-bit/</link>
+        <link>https://97hongjun.github.io/rl_forum.github.io/p/rl-bit-by-bit/</link>
         <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://97hongjun.github.io/p/rl-bit-by-bit/</guid>
-        <description>&lt;img src="https://97hongjun.github.io/p/rl-bit-by-bit/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg" alt="Featured image of post Reinforcement Learning, Bit by Bit" /&gt;&lt;h3 id=&#34;presenter&#34;&gt;Presenter&lt;/h3&gt;
+        <guid>https://97hongjun.github.io/rl_forum.github.io/p/rl-bit-by-bit/</guid>
+        <description>&lt;img src="https://97hongjun.github.io/rl_forum.github.io/p/rl-bit-by-bit/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg" alt="Featured image of post Reinforcement Learning, Bit by Bit" /&gt;&lt;h3 id=&#34;presenter&#34;&gt;Presenter&lt;/h3&gt;
 &lt;p&gt;
     Xiuyuan (Lucy) Lu&lt;br&gt;
     Research Scientist,&lt;br&gt;
@@ -37,11 +37,11 @@
         </item>
         <item>
         <title>Provable Model-based Nonlinear Bandit and Reinforcement Learning</title>
-        <link>https://97hongjun.github.io/p/provable-model-based-bandit-rl/</link>
+        <link>https://97hongjun.github.io/rl_forum.github.io/p/provable-model-based-bandit-rl/</link>
         <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://97hongjun.github.io/p/provable-model-based-bandit-rl/</guid>
-        <description>&lt;img src="https://97hongjun.github.io/p/provable-model-based-bandit-rl/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post Provable Model-based Nonlinear Bandit and Reinforcement Learning" /&gt;&lt;h3 id=&#34;presenter&#34;&gt;Presenter&lt;/h3&gt;
+        <guid>https://97hongjun.github.io/rl_forum.github.io/p/provable-model-based-bandit-rl/</guid>
+        <description>&lt;img src="https://97hongjun.github.io/rl_forum.github.io/p/provable-model-based-bandit-rl/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post Provable Model-based Nonlinear Bandit and Reinforcement Learning" /&gt;&lt;h3 id=&#34;presenter&#34;&gt;Presenter&lt;/h3&gt;
 &lt;p&gt;
     Tengyu Ma&lt;br&gt;
     Assistant Professor of Computer Science and Statistics,&lt;br&gt;
@@ -66,11 +66,11 @@
         </item>
         <item>
         <title>Diffusion Asymptotics for Sequential Experiments</title>
-        <link>https://97hongjun.github.io/p/diffusion-asymptotic-sequential-exp/</link>
+        <link>https://97hongjun.github.io/rl_forum.github.io/p/diffusion-asymptotic-sequential-exp/</link>
         <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://97hongjun.github.io/p/diffusion-asymptotic-sequential-exp/</guid>
-        <description>&lt;img src="https://97hongjun.github.io/p/diffusion-asymptotic-sequential-exp/flower.jpg" alt="Featured image of post Diffusion Asymptotics for Sequential Experiments" /&gt;&lt;h3 id=&#34;presenter&#34;&gt;Presenter&lt;/h3&gt;
+        <guid>https://97hongjun.github.io/rl_forum.github.io/p/diffusion-asymptotic-sequential-exp/</guid>
+        <description>&lt;img src="https://97hongjun.github.io/rl_forum.github.io/p/diffusion-asymptotic-sequential-exp/flower.jpg" alt="Featured image of post Diffusion Asymptotics for Sequential Experiments" /&gt;&lt;h3 id=&#34;presenter&#34;&gt;Presenter&lt;/h3&gt;
 &lt;p&gt;
     Kuang Xu&lt;br&gt;
     Associate Professor of Operations, Information and Technology,&lt;br&gt;
@@ -95,11 +95,11 @@
         </item>
         <item>
         <title>Lectures on Information Directed Sampling</title>
-        <link>https://97hongjun.github.io/p/lec-ids/</link>
+        <link>https://97hongjun.github.io/rl_forum.github.io/p/lec-ids/</link>
         <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://97hongjun.github.io/p/lec-ids/</guid>
-        <description>&lt;img src="https://97hongjun.github.io/p/lec-ids/walk.jpg" alt="Featured image of post Lectures on Information Directed Sampling" /&gt;&lt;h3 id=&#34;presenter&#34;&gt;Presenter&lt;/h3&gt;
+        <guid>https://97hongjun.github.io/rl_forum.github.io/p/lec-ids/</guid>
+        <description>&lt;img src="https://97hongjun.github.io/rl_forum.github.io/p/lec-ids/walk.jpg" alt="Featured image of post Lectures on Information Directed Sampling" /&gt;&lt;h3 id=&#34;presenter&#34;&gt;Presenter&lt;/h3&gt;
 &lt;p&gt;
     Tor Lattimore&lt;br&gt;
     Research Scientist,&lt;br&gt;
